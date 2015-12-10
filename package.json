@@ -1,6 +1,6 @@
 {
   "name": "restle-memory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Restle's in-memory adapter.",
   "main": "dist/lib/index.js",
   "dependencies": {
